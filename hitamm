@@ -1,0 +1,506 @@
+<!doctype html>
+<html amp lang="id">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+
+  <title>PAJEROTOTO: Gabung Segera Untuk Mendapatkan Bonus Unlimited Setiap Hari</title>
+  <meta name="description" content="PAJEROTOTO hadir dengan informasi seputar layanan online, akses praktis, serta program bonus harian. Kenali pilihan layanan dan ketentuan yang tersedia sebelum bergabung.">
+  <meta name="robots" content="index, follow">
+  <meta name="theme-color" content="#120202">
+
+  <link rel="canonical" href="https://justjeanniejacobs.com/best-butter-for-baking-taste-test/">
+  <link rel="icon" href="https://i.ibb.co/gZVf55zt/icon-pajerototo-dev.png" type="image/webp">
+
+  <meta property="og:url" content="https://justjeanniejacobs.com/best-butter-for-baking-taste-test/">
+  <meta property="og:site_name" content="PAJEROTOTO">
+  <meta property="og:title" content="PAJEROTOTO: Gabung Segera Untuk Mendapatkan Bonus Unlimited Setiap Hari">
+  <meta property="og:description" content="PAJEROTOTO hadir dengan informasi seputar layanan online, akses praktis, serta program bonus harian. Kenali pilihan layanan dan ketentuan yang tersedia sebelum bergabung.">
+  <meta property="og:image" content="https://godrive.art/Z7d8QgG2/bonus-pajerototo.webp">
+  <meta property="og:image:alt" content="Banner PAJEROTOTO">
+
+  <script async src="https://cdn.ampproject.org/v0.js"></script>
+
+  <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style>
+  <noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+
+  <style amp-custom>
+    *{box-sizing:border-box;margin:0;padding:0}
+
+    :root{
+      --bg:#070101;
+      --panel:#0c0202;
+      --gold:#2b2fff;
+      --gold-2:#6257ff;
+      --red:#392bff;
+      --red-2:#fff3ef;
+      --white:#fffafa;
+      --banner-bg:url("https://godrive.art/Z7d8QgG2/bonus-pajerototo.webp");
+    }
+
+    html{min-height:100%;background:var(--bg)}
+
+    body{
+      min-height:100vh;
+      overflow-x:hidden;
+      position:relative;
+      color:var(--white);
+      font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
+      line-height:1.5;
+      -webkit-font-smoothing:antialiased;
+      background:
+        linear-gradient(rgba(7,1,1,.76),rgba(7,1,1,.92)),
+        var(--banner-bg) center center / cover fixed no-repeat;
+    }
+
+    .fixed-bg{
+      position:fixed;
+      inset:-34px;
+      z-index:0;
+      pointer-events:none;
+      background:var(--banner-bg) center center / cover no-repeat;
+      filter:blur(4px);
+      transform:scale(1.08);
+    }
+
+    .fixed-bg::after{
+      content:"";
+      position:absolute;
+      inset:0;
+      background:
+        radial-gradient(circle at 50% 14%,rgba(57, 43, 255, 0.2),transparent 32%),
+        radial-gradient(circle at 10% 24%,rgba(55, 41, 255, 0.24),transparent 31%),
+        radial-gradient(circle at 90% 82%,rgba(119, 104, 255, 0.18),transparent 36%),
+        linear-gradient(90deg,rgba(3,0,0,.64),rgba(28,3,3,.36),rgba(3,0,0,.64)),
+        linear-gradient(180deg,rgba(7,1,1,.40) 0%,rgba(15,2,2,.60) 54%,rgba(3,0,0,.84) 100%);
+    }
+
+    .bg-grid{
+      position:fixed;
+      inset:-40px;
+      z-index:1;
+      pointer-events:none;
+      opacity:.50;
+      background-image:
+        linear-gradient(rgba(255,43,43,.038) 1px,transparent 1px),
+        linear-gradient(90deg,rgba(255,41,41,.055) 1px,transparent 1px);
+      background-size:32px 32px;
+      animation:gridMove 14s linear infinite;
+    }
+
+    .bg-ring{
+      position:fixed;
+      top:-150px;
+      right:-160px;
+      z-index:1;
+      width:420px;
+      height:420px;
+      pointer-events:none;
+      border-radius:50%;
+      background:conic-gradient(from 90deg,transparent,rgba(255,43,43,.32),transparent,rgba(255,41,41,.34),transparent);
+      filter:blur(4px);
+      animation:spin 16s linear infinite;
+    }
+
+    .scanline{
+      position:fixed;
+      inset:0;
+      z-index:99;
+      pointer-events:none;
+      opacity:.28;
+      background:
+        linear-gradient(rgba(19, 19, 19, 0) 50%,rgba(0,0,0,.16) 50%),
+        radial-gradient(circle at 50% 0%,rgba(255,43,43,.06),transparent 42%);
+      background-size:100% 4px,100% 100%;
+    }
+
+    .min-h-screen{min-height:100vh;position:relative;z-index:2}
+    .flex{display:flex}
+    .flex-col{flex-direction:column}
+    .items-center{align-items:center}
+    .justify-center{justify-content:center}
+    .w-full{width:100%}
+    .max-w-md{max-width:28rem}
+    .mx-auto{margin-left:auto;margin-right:auto}
+    .px-4{padding-left:1rem;padding-right:1rem}
+    .py-8{padding-top:2rem;padding-bottom:2rem}
+    .gap-3{gap:.75rem}
+    .text-center{text-align:center}
+    .text-xs{font-size:.75rem}
+    .font-bold{font-weight:700}
+
+    .page-box{
+          position: relative;
+    width: 100%;
+    overflow: hidden;
+    padding: 16px;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 28px;
+    background: radial-gradient(circle at 50% 0%, rgb(14, 16, 119), transparent 43%), linear-gradient(180deg, rgba(11, 2, 132, 0.9rgba(13, 11, 119, 0.97)97%));
+    box-shadow: 0 0 0 1px rgba(55, 41, 255, 0.16), 0 24px 60px rgba(0, 0, 0, .74), inset 0 0 38px rgba(45, 41, 255, 0.09), 0 0 28px rgba(43, 57, 255, 0.12);
+    }
+
+    .page-box::before{
+      content:"";
+      position:absolute;
+      inset:0;
+      pointer-events:none;
+      border-radius:27px;
+      box-shadow:inset 0 0 0 1px rgba(255,243,239,.055);
+    }
+
+    .page-box-content{
+      position:relative;
+      z-index:1;
+      display:flex;
+      flex-direction:column;
+      align-items:center;
+      gap:1rem;
+      width:100%;
+    }
+
+    .top-header{width:100%}
+
+    .brand-shell{
+      display:flex;
+      align-items:center;
+      justify-content:space-between;
+      gap:.75rem;
+      width:100%;
+      padding:10px 12px;
+      border:1px solid rgba(255, 255, 255, 0.4);
+      border-radius:18px;
+      background:
+        radial-gradient(circle at 18% 18%,rgba(55, 41, 255, 0.13),transparent 35%),
+        linear-gradient(180deg,rgba(27,4,4,.96),rgba(10,1,1,.94));
+      box-shadow:inset 0 1px 0 rgba(255,255,255,.028),0 0 18px rgba(43, 64, 255, 0.075);
+    }
+
+    .brand-logo-link{
+      display:flex;
+      flex:1 1 auto;
+      align-items:center;
+      justify-content:flex-start;
+      min-width:0;
+    }
+
+    .brand-logo-link amp-img{max-width:150px}
+
+    .header-livechat{
+    flex:0 0 auto;
+    display:inline-flex;
+    align-items:center;
+    justify-content:center;
+    min-width:112px;
+    padding:10px 14px;
+    border-radius:12px;
+    text-decoration:none;
+    text-transform:uppercase;
+    font-weight:700;
+    font-size:.76rem;
+    letter-spacing:.08em;
+    color:#fff1f1;
+    border:1px solid #3b3eff;
+    background:linear-gradient(180deg, rgba(10, 31, 122, 0.52), rgba(8, 4, 42, 0.84));
+    box-shadow:none;
+    white-space:nowrap;
+}
+
+    .marquee-wrapper{
+      width:100%;
+      overflow:hidden;
+      margin:.5rem 0;
+      padding:7px 0;
+      border-top:1px solid rgba(47, 43, 255, 0.38);
+      border-bottom:1px solid rgba(41, 45, 255, 0.4);
+      border-radius:12px;
+      background:linear-gradient(90deg,rgba(0,0,0,.36),rgba(41, 45, 255, 0.14),rgba(43, 47, 255, 0.11),rgba(0,0,0,.36));
+      box-shadow:0 0 18px rgba(248, 247, 247, 0.12);
+    }
+
+    .marquee-content{
+      display:inline-block;
+      white-space:nowrap;
+      animation:runText 17s linear infinite;
+    }
+
+   .marquee-item{
+    display:inline-block;
+    padding-right:2rem;
+    font-size:.8rem;
+    font-weight:bold;
+    color:#fff5f5;
+    text-shadow:0 0 7px rgba(245, 241, 241, 0.55);
+    }
+
+    .banner-wrap{
+      position:relative;
+      width:100%;
+      margin-bottom:14px;
+      overflow:visible;
+    }
+
+    .cyber-card{
+      width:100%;
+      overflow:hidden;
+      padding:5px;
+      border:1px solid rgba(248, 248, 248, 0.62);
+      border-radius:16px;
+      background:linear-gradient(180deg,rgba(5, 5, 35, 0.97),rgba(7,1,1,.99));
+      box-shadow:
+        inset 0 0 0 1px rgba(255,104,104,.08),
+        0 0 22px rgba(73, 41, 255, 0.17),
+        0 14px 34px rgba(0,0,0,.52);
+    }
+
+    .cyber-card amp-img{border-radius:12px}
+
+    .floating-logo{
+      position:absolute;
+      right:18px;
+      bottom:12px;
+      z-index:5;
+      width:96px;
+      height:42px;
+      pointer-events:none;
+      filter:drop-shadow(0 8px 12px rgba(0,0,0,.60)) drop-shadow(0 0 14px rgba(255, 255, 255, 0.31));
+      animation:logoFloat 3.2s ease-in-out infinite;
+    }
+
+    .floating-logo amp-img{display:block;width:100%;height:auto}
+    .actions{margin-top:.5rem}
+
+    .cyber-btn{
+      position:relative;
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      width:100%;
+      overflow:hidden;
+      padding:14px;
+      border-radius:12px;
+      font-size:.9rem;
+      font-weight:700;
+      letter-spacing:1px;
+      text-decoration:none;
+      text-transform:uppercase;
+    }
+
+    .cyber-btn::before{
+      content:"";
+      position:absolute;
+      inset:0;
+      background:linear-gradient(120deg,transparent,rgba(255,255,255,.30),transparent);
+      transform:translateX(-120%);
+      animation:buttonShine 3s linear infinite;
+    }
+
+    .btn-login{
+          color: #ffffff;
+    border: 1px solid rgb(0 0 0 / 92%);
+    background: linear-gradient(180deg, #0004ff 0%, #00014d 46%, #0004ff 100%);
+    box-shadow: 0 0 18px rgba(43, 100, 255, 0.3), 0 4px 0 #00014d;
+    }
+
+    .btn-register{
+          color: #ffffff;
+    border: 1px solid rgb(0 0 0 / 92%);
+    background: linear-gradient(180deg, #0004ff 0%, #00014d 46%, #0004ff 100%);
+    box-shadow: 0 0 18px rgba(43, 93, 255, 0.3), 0 4px 0 #00014d;
+    }
+
+    .btn-alt{
+      color: #ffffff;
+    border: 1px solid rgb(0 0 0 / 92%);
+    background: linear-gradient(180deg, #0004ff 0%, #00014d 46%, #0004ff 100%);
+    box-shadow: 0 0 18px rgba(43, 75, 255, 0.3), 0 4px 0 #00014d;
+    }
+
+    .trust-badge{
+      width:100%;
+      padding:10px 11px;
+      border:1px solid rgba(253, 252, 252, 0.26);
+      border-left:3px solid var(--red);
+      border-radius:10px;
+      color:var(--gold-2);
+      font-size:.7rem;
+      text-align:left;
+      background:linear-gradient(180deg,rgba(7, 5, 39, 0.88),rgba(10,1,1,.97));
+      box-shadow:inset 0 0 18px rgba(255,41,41,.07),0 0 14px rgba(64, 43, 255, 0.07);
+    }
+
+    .footer-css{
+      margin-top:.5rem;
+      color:#fffefe;
+      text-align:center;
+      font-size:.75rem;
+    }
+
+    .footer-line{
+      display:block;
+      color:#ffffff;
+    }
+
+    .footer-brand{
+      color:#0004ff;
+      font-weight:700;
+      text-decoration:none;
+    }
+
+    .footer-brand:hover,
+    .footer-brand:focus{
+      color:#5768ff;
+      text-decoration:underline;
+    }
+
+    .footer-sub-css{
+      display:block;
+      margin-top:4px;
+      color:#fff3ef;
+      font-size:10px;
+      letter-spacing:1px;
+    }
+
+    .footer-sub-css::before{
+      content:"PLATFORM MODERN & SISTEM LEBIH STABIL";
+    }
+
+    @keyframes gridMove{from{transform:translate3d(0,0,0)}to{transform:translate3d(32px,32px,0)}}
+    @keyframes spin{to{transform:rotate(360deg)}}
+    @keyframes runText{from{transform:translate3d(0,0,0)}to{transform:translate3d(-50%,0,0)}}
+    @keyframes buttonShine{to{transform:translateX(120%)}}
+    @keyframes logoFloat{0%,100%{transform:translateY(0) rotate(-2deg)}50%{transform:translateY(-12px) rotate(2deg)}}
+
+    @media (max-width:480px){
+      .page-box{padding:11px;border-radius:22px}
+      .py-8{padding-top:1rem;padding-bottom:1rem}
+      .px-4{padding-left:.65rem;padding-right:.65rem}
+      .cyber-btn{padding:13px;font-size:.84rem}
+      .brand-shell{padding:9px 10px;gap:.5rem}
+      .brand-logo-link amp-img{max-width:128px}
+      .header-livechat{min-width:96px;padding:9px 10px;font-size:.7rem}
+      .floating-logo{right:12px;bottom:10px;width:78px;height:34px}
+      .banner-wrap{margin-bottom:11px}
+    }
+
+    @media (prefers-reduced-motion:reduce){
+      .bg-grid,.bg-ring,.marquee-content,.floating-logo,.cyber-btn::before{animation:none}
+    }
+  </style>
+</head>
+<body>
+  <div class="fixed-bg"></div>
+  <div class="bg-grid"></div>
+  <div class="bg-ring"></div>
+  <div class="scanline"></div>
+
+  <main class="min-h-screen flex flex-col items-center justify-center py-8 px-4">
+    <div class="w-full max-w-md mx-auto">
+      <section class="page-box">
+        <div class="page-box-content">
+          <header class="top-header">
+            <div class="brand-shell">
+              <a href="https://justjeanniejacobs.com/best-butter-for-baking-taste-test/" class="brand-logo-link" aria-label="Beranda PAJEROTOTO">
+                <amp-img
+                  src="https://veldrive.com/kkyhkMre/pajerototo.gif.gif"
+                  alt="Logo PAJEROTOTO"
+                  width="150"
+                  height="42"
+                  layout="intrinsic">
+                </amp-img>
+              </a>
+
+              <a href="https://takenlink.eu/livechat-pajerototo"
+                 target="_blank"
+                 rel="noopener noreferrer"
+                 class="header-livechat">LIVE CHAT</a>
+            </div>
+          </header>
+
+     <div class="marquee-wrapper" aria-label="Informasi PAJEROTOTO">
+  <div class="marquee-content">
+
+    <span class="marquee-item">
+      ⚡ PAJEROTOTO ⚡
+    </span>
+
+    <span class="marquee-item">
+      🔐 PAJEROTOTO LOGIN 🔐
+    </span>
+
+    <span class="marquee-item">
+      🔗 PAJEROTOTO DAFTAR 🔗
+    </span>
+
+    <span class="marquee-item">
+      🎯 PAJEROTOTO LINK RESMI 🎯
+    </span>
+
+    <span class="marquee-item">
+      💎 SITUS PAJEROTOTO 💎
+    </span>
+
+    <span class="marquee-item">
+      🚀 PAJEROTOTO ALTERNATIF 🚀
+    </span>
+
+    <span class="marquee-item">
+      ⚡ PAJEROTOTO LOGIN TERBARU ⚡
+    </span>
+
+    <span class="marquee-item">
+      🛡️ PERMAINAN ONLINE 🛡️
+    </span>
+
+  </div>
+</div>
+
+          <div class="banner-wrap">
+            <div class="cyber-card">
+              <amp-img
+                src="https://godrive.art/Z7d8QgG2/bonus-pajerototo.webp"
+                width="400"
+                height="400"
+                layout="responsive"
+                alt="Banner utama PAJEROTOTO">
+              </amp-img>
+            </div>
+
+            <div class="floating-logo" aria-hidden="true">
+              <amp-img
+                src="https://i.ibb.co/GQMdPyNf/daftar-sekarang-gif-2.gif"
+                width="120"
+                height="52"
+                layout="responsive"
+                alt="">
+              </amp-img>
+            </div>
+          </div>
+
+          <div class="w-full flex flex-col gap-3 actions">
+            <a href="https://takenlink.eu/login-pajerototo" target="_blank" rel="noopener noreferrer" class="cyber-btn btn-login">LOGIN UTAMA</a>
+            <a href="https://takenlink.eu/daftar-pajerototo" target="_blank" rel="noopener noreferrer" class="cyber-btn btn-register">DAFTAR AKUN</a>
+            <a href="https://takenlink.eu/login-pajerototo" target="_blank" rel="noopener noreferrer" class="cyber-btn btn-alt">LINK ALTERNATIF</a>
+          </div>
+
+          <div class="trust-badge">
+            <div class="font-bold">PAJEROTOTO: Gabung Segera Untuk Mendapatkan Bonus Unlimited Setiap Hari</div>
+          </div>
+
+          <footer class="footer-css"
+                  aria-label="© 2026 BY PAJEROTOTO. PLATFORM MODERN &amp; SISTEM LEBIH STABIL">
+            <span class="footer-line">
+              © 2026 BY
+              <a href="https://justjeanniejacobs.com/best-butter-for-baking-taste-test/"
+                 class="footer-brand"
+                 aria-label="Buka halaman PAJEROTOTO">PAJEROTOTO</a>
+            
+            </span>
+            <span class="footer-sub-css"></span>
+          </footer>
+        </div>
+      </section>
+    </div>
+  </main>
+</body>
+</html>
